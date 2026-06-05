@@ -6,6 +6,8 @@
   </a>
 </p>
 
+---
+
 ### 👨‍💻 Sobre mim
 
 - 💻 Atualmente aprofundando conhecimentos em **Desenvolvimento Web** através do **The Odin Project** e focando no ecossistema **Node.js**.
@@ -25,14 +27,26 @@
 
 ---
 
+### 📁 Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/L41z/odin-recipes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=L41z&repo=odin-recipes" alt="Projeto 1" />
+  </a>
+</div>
+
+---
+
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L41z&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=L41z&show_icons=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
 </div>
 
+---
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luiz-david05&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luiz-david05&hide_border=true" alt="GitHub Streak" />
 </div> --> -->
 
 ---
@@ -46,11 +60,6 @@
         <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/L41z/L41z/output/github-contribution-grid-snake.svg">
     </picture>
 </div>
-
----
-
-### Citação 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyionight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
