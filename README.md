@@ -1,0 +1,51 @@
+# Olá! 👋 Bem-vindo ao meu perfil!
+
+### 👨‍💻 Sobre mim
+
+- 💻 Atualmente aprofundando conhecimentos em **Desenvolvimento Web** através do **The Odin Project** e focando no ecossistema **Node.js**.
+- ⚡ Estudante de **Análise e Desenvolvimento de Sistemas**
+- 🛠️ Entusiasta de **Hardware**, pesquisando otimizações de setups e compatibilidade de componentes.
+- 📚 Focado em manter uma rotina de estudos disciplinada para a área de tecnologia.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L41z&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L41z&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+### 🐍 Minhas Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/L41z/L41z/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+### 📫 Como me encontrar
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/luiz-david-silva-gomes-174545213/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
+  </a>
+  <a href="mailto:lddavid05@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email">
+  </a>
+</div>
