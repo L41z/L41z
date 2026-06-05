@@ -37,29 +37,21 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L41z&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L41z&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
----
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=L41z&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🐍 Snake Game com commits
+<!-- [game-name] -->
+### 👾 Minhas Contribuições (Bomberman)
 
 <div>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/L41z/L41z/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/L41z/L41z/output/github-contribution-grid-snake.svg">
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/L41z/L41z/output/github-contribution-grid-snake.svg">
-    </picture>
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/L41z/L41z/output/bomberman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/L41z/L41z/output/bomberman-contribution-graph.svg">
+      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/L41z/L41z/output/bomberman-contribution-graph.svg">
+  </picture>
 </div>
 
 ---
