@@ -39,7 +39,7 @@
 
 ### 📊 Estatísticas do GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L41z)](https://github.com/anuraghazra/github-readme-stats)
+[![Luiz David GitHub stats](https://github-readme-stats.vercel.app/api?username=L41z&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
