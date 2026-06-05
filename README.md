@@ -40,14 +40,14 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L41z&show_icons=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=L41z&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luiz-david05&hide_border=true" alt="GitHub Streak" />
-</div> --> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L41z&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
