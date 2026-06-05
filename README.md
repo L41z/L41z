@@ -21,24 +21,16 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,bitcoin" alt="Minhas Habilidades" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,Bitcoin" alt="Minhas Habilidades" />
   </a>
 </div>
 
 ---
+
 ### 🧊 Calendário de Commits Isométrico
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/L41z/L41z/main/isometric-calendar.svg" alt="Calendário Isométrico de Commits" />
-</div>
----
-
-### 📁 Projetos em Destaque
-
-<div align="center">
-  <a href="https://github.com/L41z/odin-recipes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=L41z&repo=odin-recipes" alt="Projeto 1" />
-  </a>
 </div>
 
 ---
