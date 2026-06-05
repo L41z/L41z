@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py&theme=tokyionight" alt="Minhas Habilidades" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py" alt="Minhas Habilidades" />
   </a>
 </div>
 
@@ -28,11 +28,11 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L41z&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=L41z&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luiz-david05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luiz-david05&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div> --> -->
 
 ---
