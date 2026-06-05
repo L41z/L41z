@@ -46,13 +46,12 @@
 <!-- [game-name] -->
 ### 👾 Minhas Contribuições (Bomberman)
 
-<div>
-  <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/L41z/L41z/output/bomberman-contribution-graph-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/L41z/L41z/output/bomberman-contribution-graph.svg">
-      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/L41z/L41z/output/bomberman-contribution-graph.svg">
-  </picture>
-</div>
+<!-- [game-name] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/L41z/L41z/output/bomberman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/L41z/L41z/output/bomberman-contribution-graph.svg">
+    <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/L41z/L41z/output/bomberman-contribution-graph.svg">
+</picture>
 
 ---
 
