@@ -12,7 +12,7 @@
 
 - 💻 Atualmente aprofundando conhecimentos em **Desenvolvimento Web** através do **The Odin Project** e focando no ecossistema **Node.js**.
 - ⚡ Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🛠️ Entusiasta de **Hardware**, pesquisando otimizações de setups e compatibilidade de componentes.
+- 🛠️ Entusiasta de **Hardware** e **Criptmoedas**, especificamente Bitcoin.
 - 📚 Focado em manter uma rotina de estudos disciplinada para a área de tecnologia.
 
 ---
@@ -21,10 +21,16 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py" alt="Minhas Habilidades" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,bitcoin" alt="Minhas Habilidades" />
   </a>
 </div>
 
+---
+### 🏙️ Gráfico de Contribuições 3D
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="Gráfico 3D de Contribuições" />
+</div>
 ---
 
 ### 📁 Projetos em Destaque
@@ -33,12 +39,6 @@
   <a href="https://github.com/L41z/odin-recipes">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=L41z&repo=odin-recipes" alt="Projeto 1" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L41z&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
