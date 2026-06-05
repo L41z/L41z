@@ -26,10 +26,10 @@
 </div>
 
 ---
-### 🏙️ Gráfico de Contribuições 3D
+### 🧊 Calendário de Commits Isométrico
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="Gráfico 3D de Contribuições" />
+  <img src="https://raw.githubusercontent.com/L41z/L41z/main/isometric-calendar.svg" alt="Calendário Isométrico de Commits" />
 </div>
 ---
 
